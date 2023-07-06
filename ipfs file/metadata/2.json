@@ -1,0 +1,20 @@
+{
+  "name": "SaggeMode NFT Collection NFT #2",
+  "description": "SaggeMode our first Web3 dApp NFT Collection. This unique collection 2 of 1000 NFTs available",
+  "image": "ipfs://QmcMrn99xpSCg8A72nQCdLYKnjiL2QqzujAaG46RcB9jzx/2.jpg",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Rose"
+    }
+  ]
+}
